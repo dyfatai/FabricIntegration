@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Report",
-    "displayName": "Ordinance Sales Report"
+    "displayName": "VanArsdel Sales Report V"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "941d81c2-5f76-438d-957d-414c059be6ed"
+    "logicalId": "1b3991a8-a731-44ed-9c36-f8de5cc370df"
   }
 }
