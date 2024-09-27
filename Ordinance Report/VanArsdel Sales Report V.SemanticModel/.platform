@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "SemanticModel",
-    "displayName": "Ordinance Sales Report"
+    "displayName": "VanArsdel Sales Report V"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "2dfe0252-1ab8-4c04-8f43-4a3309ddc537"
+    "logicalId": "a1e913ed-4580-43c6-a61d-ef32cc2f7818"
   }
 }
