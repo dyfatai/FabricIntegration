@@ -2,7 +2,7 @@
   "version": "4.0",
   "datasetReference": {
     "byPath": {
-      "path": "../Ordinance Sales Report.SemanticModel"
+      "path": "../VanArsdel Sales Report V.SemanticModel"
     },
     "byConnection": null
   }
