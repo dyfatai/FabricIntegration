@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Ordinance Sales Report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "941d81c2-5f76-438d-957d-414c059be6ed"
+  }
+}
